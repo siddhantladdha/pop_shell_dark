@@ -11,7 +11,7 @@
 Use [vim-plug](https://github.com/junegunn/vim-plug) or any other plugin manager of your choice:
 
 ```viml
-Plug 'siddhantladdha/pop_shell_dark.vim'
+Plug 'siddhantladdha/pop_shell_dark'
 ```
 
 And then set the colorscheme.
