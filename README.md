@@ -1,6 +1,6 @@
 # pop_shell_dark.vim
 
-[Pop Shell Dark](https://pablopunk.com/sick-colors) for vim. Generated with [vimcolors.org](https://vimcolors.org) 
+[Pop Shell Dark](https://github.com/siddhantladdha/pop_shell_dark) for vim. Generated with [vimcolors.org](https://vimcolors.org) 
 
 ![screenshot1](./1.png)
 ![screenshot2](./2.png)
